@@ -1,5 +1,5 @@
 # react-help
-<i>diagrams, references or useful  links<i/>
+*diagrams, references or useful  links*
 
 
 ## hook flow/lifecycle diagram
@@ -54,4 +54,5 @@ React.useEffect(() => {
   }, [pokemonName])
   ```
   
-  with the fetchPokemon being an api call to a graphQL/REST endpoint.
+  with the fetchPokemon being an
+  [api call to a graphQL)](https://github.com/kentcdodds/react-hooks/blob/119a8c9182664e7b28e6a426b7ca861f045f729e/src/pokemon.js#L10-L27) /REST endpoint.
