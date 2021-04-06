@@ -2,7 +2,9 @@
 diagrams, references or useful  links
 
 
-- ## hook flow/lifecycle diagram https://github.com/donavon/hook-flow
+- ## hook flow/lifecycle diagram
+
+https://github.com/donavon/hook-flow
 
 - ## useEffect with a async:
 
