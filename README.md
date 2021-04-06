@@ -1,12 +1,13 @@
 # react-help
-diagrams, references or useful  links
+<i>diagrams, references or useful  links<i/>
 
 
-- ## hook flow/lifecycle diagram
+## hook flow/lifecycle diagram
 
 https://github.com/donavon/hook-flow
 
-- ## useEffect with a async:
+
+## useEffect with a async:
 
 ```
 React.useEffect(() => {
