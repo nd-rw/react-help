@@ -7,7 +7,7 @@
 https://github.com/donavon/hook-flow
 
 
-## useEffect with a async:
+## useEffect with async functions:
 
 ```
 React.useEffect(() => {
