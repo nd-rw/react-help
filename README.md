@@ -1,5 +1,5 @@
 # react-help
-*diagrams, references or useful  links*
+*useful examples, snippets, diagrams, references or links*
 
 
 ## hook flow/lifecycle diagram
